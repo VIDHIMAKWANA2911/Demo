@@ -1,0 +1,23 @@
+*{
+    margin:left;
+    padding: 0;
+    box-sizing: border-box;
+}
+.chess{
+    height: 802px;
+    width: 802px;
+    border: 1px solid black;
+    margin: auto;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black ;
+    float: left;
+}
+.color1{
+    background-color: bisque;
+}
+.color2{
+    background-color: green;
+}
